@@ -11,6 +11,7 @@ RUN apt-get update \
     git-core \
     gnupg \
     flex \
+    u-boot-tools \
     bison \
     gperf \
     build-essential \
