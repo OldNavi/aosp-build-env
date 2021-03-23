@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER docker@jftr.de
+MAINTAINER Old.Navi@bk.ru
 
 # Prepare the Build Environment
 RUN apt-get update \
